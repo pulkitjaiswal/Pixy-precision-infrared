@@ -1,0 +1,13 @@
+.\spifi\lpc43xx_i2c.o: ..\libpixy\lpc43xx_i2c.c
+.\spifi\lpc43xx_i2c.o: ..\libpixy\lpc43xx_i2c.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\lpc43xx.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\core_cm4.h
+.\spifi\lpc43xx_i2c.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\core_cmInstr.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\core_cmFunc.h
+.\spifi\lpc43xx_i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm4_simd.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\system_LPC43xx.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\lpc_types.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\lpc43xx_cgu.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\lpc43xx_scu.h
+.\spifi\lpc43xx_i2c.o: ..\libpixy\lpc43xx_libcfg_default.h
